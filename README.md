@@ -1,8 +1,11 @@
 
- <h1 style="float:left;font-family: Chiller;font-size: 40px">💫 Hello, I’m Senpaixyz!!</h1>
+<div markdown="1" align="center">
+
+![logo](https://github.com/Senpaixyz/Senpaixyz/raw/main/gojo.gif)
+
+</div>
+<p style="text-align: center;font-family: Chiller;font-size: 60px">💫 Hello, I’m Senpaixyz!!</p>
  
-<span style="float:right;margin:0 10px 10px 0" markdown="1"> ![logo](https://github.com/Senpaixyz/Senpaixyz/raw/main/gojo.gif)
-</span>
 
 <br/>
 <br/>
