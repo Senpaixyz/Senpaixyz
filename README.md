@@ -1,11 +1,16 @@
-<div style="display:flex;flex-direction: row;-webkit-flex-direction: row; justify-content: center; align-items: center;margin: 0; padding:0;">
- <h1 style="font-family: Chiller;font-size: 40px">💫 Hello, I’m Senpaixyz!!</h1>
+
+ <h1 style="float:left;font-family: Chiller;font-size: 40px">💫 Hello, I’m Senpaixyz!!</h1>
  
- <span> ![logo](https://github.com/Senpaixyz/Senpaixyz/raw/main/gojo.gif) </spa>
-</div>
+<span style="float:right;margin:0 10px 10px 0" markdown="1"> ![logo](https://github.com/Senpaixyz/Senpaixyz/raw/main/gojo.gif)
+</span>
 
-🚀 I specialize in Web Development, Software Development, and Machine Learning.<br><br>🌐 In the realm of Software Development, I thrive on creating efficient and scalable solutions. My skills include proficiency in various programming languages and a keen understanding of software architecture.<br><br>🤖 When it comes to Machine Learning, I love exploring the limitless possibilities it offers. I have hands-on experience with building and deploying machine learning models, utilizing frameworks like TensorFlow and scikit-learn.<br><br>📈 Let's collaborate and build something amazing together! Check out my repositories to see my latest projects and contributions.<br>
+<br/>
+<br/>
+<br/>
+🚀 I specialize in Web Development, Software Development, and Machine Learning.<br><br>🌐 In the realm of Software Development, I thrive on creating efficient and scalable solutions. My skills include proficiency in various programming languages and a keen understanding of software architecture.<br><br>🤖 When it comes to Machine Learning, I love exploring the limitless possibilities it offers. I have hands-on experience with building and deploying machine learning models, utilizing frameworks like TensorFlow and scikit-learn.<br><br>📈 Let's collaborate and build something amazing together! Check out my repositories to see my latest projects and contributions.
 
+<br>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jheno-s-cerbito) 
 
