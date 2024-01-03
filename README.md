@@ -3,12 +3,9 @@
 
 ![logo](https://github.com/Senpaixyz/Senpaixyz/raw/main/gojo.gif)
 
-</div>
-<p style="text-align: center;font-family: Chiller;font-size: 60px">💫 Hello, I’m Senpaixyz!!</p>
- 
+<h1 style="font-family:Chiller; font-size: 60px;"> 💫 Hello, I’m Senpaixyz!! </h1>
 
-<br/>
-<br/>
+</div>
 <br/>
 🚀 I specialize in Web Development, Software Development, and Machine Learning.<br><br>🌐 In the realm of Software Development, I thrive on creating efficient and scalable solutions. My skills include proficiency in various programming languages and a keen understanding of software architecture.<br><br>🤖 When it comes to Machine Learning, I love exploring the limitless possibilities it offers. I have hands-on experience with building and deploying machine learning models, utilizing frameworks like TensorFlow and scikit-learn.<br><br>📈 Let's collaborate and build something amazing together! Check out my repositories to see my latest projects and contributions.
 
